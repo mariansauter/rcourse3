@@ -12,5 +12,5 @@ Author: Marian Sauter <br />
 Goal | Item 
 --- | ---
 Analysis R Script |  run_analysis.R
-Tidy Data Set |  tidyData.csv
+Tidy Data Set |  tidyData.txt
 Cookbook | CodeBook.md 

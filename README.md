@@ -9,8 +9,8 @@ Author: Marian Sauter <br />
 
 ## Review Criteria
 
-Goal | Item | Link to Item
---- | --- | ---
+Goal | Item 
+--- | ---
 Analysis R Script |  run_analysis.R
 Tidy Data Set |  TidyData.csv
 Cookbook | CodeBook.md 
